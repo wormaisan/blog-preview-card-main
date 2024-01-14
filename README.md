@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/wormaisan/blog-preview-card-main.git)
-- Live Site URL: [Add live site URL here](https://wormaisan.github.io/blog-preview-card-main/)
+- Solution URL: [https://github.com/wormaisan/blog-preview-card-main.git](https://github.com/wormaisan/blog-preview-card-main.git)
+- Live Site URL: [https://wormaisan.github.io/blog-preview-card-main/](https://wormaisan.github.io/blog-preview-card-main/)
 
 ## My process
 
